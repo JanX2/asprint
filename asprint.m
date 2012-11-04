@@ -5,7 +5,7 @@ asprint
 A Small command-line program that prints out the contents of a specified
 AppleScript file.
 
-Copyright (c) 2009-2010 Ali Rantakari (http://hasseg.org)
+Copyright (c) 2009-2010 Ali Rantakari ( http://hasseg.org )
 
 --------------
 
